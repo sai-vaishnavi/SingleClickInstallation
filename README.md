@@ -1,0 +1,1 @@
+Developed and executed a batch script leveraging Silent Installation to expedite software deployment. Achieved a 93% reduction in installation time and decreased costs by 70% through seamless, one-click installation process, optimizing productivity.
